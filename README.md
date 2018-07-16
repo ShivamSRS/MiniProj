@@ -1,1 +1,2 @@
 # MiniProj
+Neural network backprop
